@@ -19,8 +19,7 @@ class ParameterSchema(Schema):
 
 @app.route('/')
 def index():
-    return 'Hello My name is Pritam, I am roommate of this developer. I live in Anjaneya PG with Dwijendra and Kaushal, we do have our special nick name to pull each others legs.\n
-हम दोनों एक नंबर का CHU*** है'
+    return 'Hello My name is Pritam, I am roommate of this developer. I live in Anjaneya PG with Dwijendra and Kaushal, we do have our special nick name to pull each others legs.हम दोनों एक नंबर का CHU*** है'
 
  
 
