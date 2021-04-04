@@ -1,1 +1,1 @@
-web: gunicorn flaskDeploy:house-price-predict-pritam
+web: gunicorn flaskDeploy:app
